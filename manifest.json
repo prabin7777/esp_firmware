@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "url": "https://raw.githubusercontent.com/prabin7777/esp_firmware/main/earthquake.bin",
-  "sha256": "443a05693d590c63a352474ae8d51cec653705870fd6420b1bee066c3126284d"
+  "version": "1.0.0",
+  "url": "https://raw.githubusercontent.com/prabin7777/esp_firmware/main/seismometer.bin",
+  "sha256": "70afa3ffc43c764058046d4d0503b975b5aa46b6df63d2840c5b31ed11208545"
 }
